@@ -47,12 +47,17 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://docs.lokanode.com/",
+          "href": "https://docs.lokanode.com/#",
           "icon": "book-open-cover"
         },
         {
+          "anchor": "Discord Community",
+          "href": "https://discord.gg/yvv8eHn6A8",
+          "icon": "discord"
+        },
+        {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://discord.gg/yvv8eHn6A8",
           "icon": "newspaper"
         }
       ]
