@@ -47,7 +47,7 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "pages": "/introduction",
+          "href": "https://docs.lokanode.com/introduction",
           "icon": "book-open"
         },
         {
