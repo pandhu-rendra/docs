@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "LokaNode.com",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#00A8FF",
+    "light": "#007BFF",
+    "dark": "#007BFF"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -13,8 +13,8 @@
       {
         "group": "Tentang LokaNode",
         "pages": [
-          "index",
-          "quickstart",
+          "introduction",
+          "specs",
           "development"
         ]
       },
@@ -47,8 +47,8 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://docs.lokanode.com/#",
-          "icon": "book-open-cover"
+          "href": "https://docs.lokanode.com/introduction",
+          "icon": "book-open"
         },
         {
           "anchor": "Discord Community",
@@ -83,18 +83,6 @@
       "label": "Control Panel",
       "href": "https://panel.lokanode.com"
     }
-  },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
   },
   "footer": {
     "socials": {
