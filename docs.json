@@ -45,7 +45,8 @@
         "group": "Terms of Services",
         "pages": [
           "policies/tos",
-          "policies/policy"
+          "policies/policy",
+          "policies/rules"
         ]
       }
     ],
