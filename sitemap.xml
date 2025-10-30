@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.lokanode.com/introduction</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/mission</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/infrastructure</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/started/quickstart</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/started/faq</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/started/panel</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/management/billing</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/management/backup</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/management/monitoring</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/game-hosting/minecraft-java</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/game-hosting/minecraft-bedrock</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/policies/tos</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/policies/policy</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lokanode.com/policies/rules</loc>
+  <lastmod>2025-10-30T06:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
